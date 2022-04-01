@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.3)  4 MAR 2022 15:19
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.3)  31 MAR 2022 17:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1579,9 +1579,9 @@ LaTeX Font Warning: Font shape `TU/PingFangSC(0)/m/sc' undefined
 
 
 ]
-/Users/macbook/Desktop/win/latex/test1/cv.tex:99: Text line contains an invalid character.
-l.99 热爱学习，个人的技能大部分都是课余时间自学，喜欢逛^^A
-                                 IT 博客，代码网站，研究新出现的技术，善于学习，做事情能坚
+/Users/macbook/Desktop/win/latex/test1/cv.tex:128: Text line contains an invalid character.
+l.128 热爱学习，个人的技能大部分都是课余时间自学，喜欢逛^^A
+                                  IT 博客，代码网站，研究新出现的技术，善于学习，做事情能坚
 A funny symbol that I can't read has just been input.
 Continue, and I'll forget that it ever happened.
 
@@ -1600,7 +1600,7 @@ Package rerunfilecheck Warning: File `cv.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `cv.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  C1D8C474C09A16D3CEE6B4383FFB5FF1;1425.
+(rerunfilecheck)             After:  899B4B1E06FEF13CC1F8EBEA0728128C;1683.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                cv
@@ -1613,7 +1613,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  31441 strings out of 476919
  582346 string characters out of 5821841
- 1418906 words of memory out of 5000000
+ 1416906 words of memory out of 5000000
  50949 multiletter control sequences out of 15000+600000
  417727 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
