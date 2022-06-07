@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.3)  6 APR 2022 21:12
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.3)  7 JUN 2022 11:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1579,8 +1579,8 @@ LaTeX Font Warning: Font shape `TU/PingFangSC(0)/m/sc' undefined
 
 
 ]
-/Users/macbook/Desktop/win/latex/test1/cv.tex:128: Text line contains an invalid character.
-l.128 热爱学习，个人的技能大部分都是课余时间自学，喜欢逛^^A
+/Users/macbook/Desktop/win/latex/test1/cv.tex:142: Text line contains an invalid character.
+l.142 热爱学习，个人的技能大部分都是课余时间自学，喜欢逛^^A
                                   IT 博客，代码网站，研究新出现的技术，善于学习，做事情能坚
 A funny symbol that I can't read has just been input.
 Continue, and I'll forget that it ever happened.
@@ -1600,7 +1600,7 @@ Package rerunfilecheck Warning: File `cv.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `cv.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  899B4B1E06FEF13CC1F8EBEA0728128C;1683.
+(rerunfilecheck)             After:  2A34304F9FB3791B5C45F894B34C7CD3;1833.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                cv

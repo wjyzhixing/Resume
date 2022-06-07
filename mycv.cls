@@ -13,7 +13,7 @@
 % The Current Maintainer of this work is Cheng XU.
 
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
-\ProvidesClass{mycv}
+\ProvidesClass{mycv} 
 
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ProcessOptions%
